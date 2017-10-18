@@ -1,6 +1,9 @@
-// used to find calculated a2,a4 and c2,c4 coefficients 
-
-
+// algebraic fit
+// n = # of root files of simulated distribution
+// fits simulated distributions to linear approximation function of histogram templates 
+// produces a2 v C2 and a2 v C4 for varying data values -> different cascades 
+// finds calculated (a2,a4) and measured (c2,c4) coefficients 
+// uses Z distribution 
 
 
 // global variables 

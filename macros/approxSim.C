@@ -1,12 +1,12 @@
 // algebraic fit
-// n = # of root files of simulated "data"
-// fits "data" to linear approximation function of histogram templates 
+// n = # of root files of simulated distribution
+// fits simulated distributions to linear approximation function of histogram templates 
 // produces a2 v C2 and a2 v C4 for varying data values -> different cascades 
+// finds calculated (a2,a4) and measured (c2,c4) coefficients 
+// uses idividualy simulated distributions
 
 // global variables 
 Double_t x0,x2,x4,y00,y2,y4,z0,z2,z4;
-
-
 
 // define Legendre Polynomial 
 Double_t acFnc(Double_t *x, Double_t *p)

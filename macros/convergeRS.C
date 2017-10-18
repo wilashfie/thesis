@@ -1,5 +1,5 @@
 
-// fits the z distribution to simulated "data"
+// fits the Z distribution to individually simulated distributions
 
 #include "TRandom3.h"
 

@@ -1,4 +1,4 @@
-// runs X2 analysis for best fit of a2/a4 for a given cascade 
+// runs chi-square analysis for best fit of a2/a4 for a given gamma - gamma cascade 
 
 
 // functions for a2,a4
